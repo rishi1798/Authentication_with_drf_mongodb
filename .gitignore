@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+venv/                # or the name of your virtual environment directory
+db.sqlite3           # if you are using SQLite as your database
+.DS_Store            # for MacOS users
